@@ -1,0 +1,29 @@
+{
+    "sites": [{
+            "id": "1",
+            "nome": "Amazon",
+            "dominio_oficial": "www.amazon.com.br"
+        },
+        {
+            "id": "2",
+            "nome": "Shoppe",
+            "dominio_oficial": "www.shopee.com.br"
+        },
+        {
+            "id": "3",
+            "nome": "Google",
+            "dominio_oficial": "www.google.com"
+        },
+        {
+            "id": "4",
+            "nome": "Facebook",
+            "dominio_oficial": "pt-br.facebook.com"
+        },
+        {
+            "id": "5",
+            "nome": "Instagram",
+            "dominio_oficial": "www.instagram.com"
+        }
+
+    ]
+}
