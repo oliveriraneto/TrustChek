@@ -58,7 +58,7 @@ TrustChek/
 ├ index.html
 ├ style.css
 └ script.js
-├ server.js
+├ db.js
 └── README.md
 ```
 
