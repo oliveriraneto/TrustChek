@@ -1,0 +1,68 @@
+h1{
+    text-align: center;
+    color: #333;
+    font-family: 'Arial', sans-serif;
+    margin-top: 225px;
+    font-size: 70px;
+}
+h2{
+    text-align: center;
+    color: #6b6666f8;
+    font-family: 'Arial', sans-serif;
+    font-size: 25px;
+}
+input{
+    text-align: center;
+    display: block;
+    margin: 20px auto;
+    padding: 10px;
+    width: 300px;
+    border-radius: 10px;
+    font-size: 16px;
+}
+button{
+    display: block;
+    margin: 10px auto;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #333;
+    border-radius: 10px;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+button:hover{
+    background-color: #525050;
+}
+#resultado{
+    text-align: center;
+    font-size: 24px;
+    color: #333;
+    font-family: 'Arial', sans-serif;
+   
+}
+
+
+#autores{
+    text-align: center;
+    font-size: 14px;
+    color: #6d6d6d;
+    font-family: 'Arial', sans-serif;
+    
+    
+}
+#separar{
+    border: 0;
+    height: 1px;
+    background-color: #333;
+    margin: 20px auto;
+    width: 50%;
+}
+#autor{
+    border: #6d6d6d solid 1px;
+    margin-top: 280px;
+    text-align: center;
+    font-size: 18px;
+    color: #333;
+    font-family: 'Arial', sans-serif;
+}
